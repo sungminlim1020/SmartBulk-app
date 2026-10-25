@@ -6,6 +6,59 @@ AI 기반 개인 맞춤 운동 추천, 실시간 자세 피드백, AI 식단 추
 
 SmartBulk는 사용자의 신체 정보(나이, 키, 몸무게)와 운동 목표, 그리고 날짜별로 직접 설정한 운동 부위 계획을 바탕으로 맞춤 운동 루틴을 추천합니다. 카메라로 실시간 자세를 인식해 운동 중 피드백을 제공하고, 그날 운동 부위에 맞춰 Claude(Anthropic)가 생성한 식단을 추천합니다.
 
+## 📱 실행 화면
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/login.png" width="220" alt="로그인 화면"><br>
+      <b>로그인 화면</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/signup.png" width="220" alt="회원가입 화면"><br>
+      <b>회원가입 화면</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/main.png" width="220" alt="메인 화면"><br>
+      <b>메인 화면</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/learn_exercises.png" width="220" alt="배우고 싶은 운동"><br>
+      <b>배우고 싶은 운동</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/exercise_detail.png" width="220" alt="운동 상세 설명"><br>
+      <b>운동 상세 설명</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/pose_feedback.png" width="220" alt="실시간 자세 피드백"><br>
+      <b>실시간 자세 피드백</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/workout_checklist.png" width="220" alt="오늘의 운동 체크리스트"><br>
+      <b>오늘의 운동 체크리스트</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/statistics.png" width="220" alt="운동 통계 및 달력"><br>
+      <b>운동 통계 및 달력</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/statistics_preview.png" width="220" alt="날짜별 계획 미리보기"><br>
+      <b>날짜별 계획 미리보기</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="screenshots/mypage.png" width="220" alt="마이페이지"><br>
+      <b>마이페이지</b>
+    </td>
+  </tr>
+</table>
+
 ## 주요 기능
 
 ### 사용자 관리
@@ -165,34 +218,10 @@ Firebase Cloud Functions를 통해 Anthropic Claude API를 호출하는 AI 식�
 
 - 벤치프레스 / 레그프레스 / 시티드 체스트프레스 등 거치대가 필요하거나 기구에 가려지는 운동의 자세 분석 지원
 
-## 실행 화면
-
-<table>
-  <tr>
-     <img width="410" height="915" alt="스마트벌크1" src="https://github.com/user-attachments/assets/40095d4f-614d-4154-a621-379c11a5aba1" />로그인 화면</td>
-     <img width="400" height="911" alt="스마트벌크2" src="https://github.com/user-attachments/assets/f0f04ff6-d0fc-46e0-9c3f-ba497f6bd24a" />회원가입 화면
-     <img width="403" height="917" alt="스마트벌크3" src="https://github.com/user-attachments/assets/733ee541-57dc-4140-8bfc-648b5ae9f766" />메인 화면
-  </tr>
-  <tr>
-    <td align="center"><img src="screenshots/learn_exercises.png" width="220"><br>배우고 싶은 운동 목록</td>
-    <td align="center"><img src="screenshots/statistics.png" width="220"><br>통계/달력 화면</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="screenshots/statistics_preview.png" width="220"><br>통계 - 날짜 미리보기 다이얼로그</td>
-    <td align="center"><img src="screenshots/workout_checklist.png" width="220"><br>오늘의 운동 - 체크박스</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="screenshots/exercise_detail.png" width="220"><br>운동 상세 화면 (스쿼트)</td>
-  </tr>
-  
-
-
-</table>
-
 ## 개발 기간
 
 2025년 1학기 — 초기 개발 (수업 프로젝트)<br>
-2026.08.03 ~ 2026.08.19 — 기능 개선 및 고도화
+2026.08.03 ~ 2026.08.19 — 기능 개선 및 고도화<br>
 2026.10.06 깃허브 업로드
 
 ## 프로젝트를 통해 얻은 경험
