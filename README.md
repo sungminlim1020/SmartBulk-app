@@ -170,7 +170,8 @@ Firebase Cloud Functions를 통해 Anthropic Claude API를 호출하는 AI 식�
 <table>
   <tr>
      <img width="410" height="915" alt="스마트벌크1" src="https://github.com/user-attachments/assets/40095d4f-614d-4154-a621-379c11a5aba1" />로그인 화면</td>
-   <img width="400" height="911" alt="스마트벌크2" src="https://github.com/user-attachments/assets/f0f04ff6-d0fc-46e0-9c3f-ba497f6bd24a" /><br>회원가입 화면</td>
+     <img width="400" height="911" alt="스마트벌크2" src="https://github.com/user-attachments/assets/f0f04ff6-d0fc-46e0-9c3f-ba497f6bd24a" />회원가입 화면
+     <img width="403" height="917" alt="스마트벌크3" src="https://github.com/user-attachments/assets/733ee541-57dc-4140-8bfc-648b5ae9f766" />메인 화면
   </tr>
   <tr>
     <td align="center"><img src="screenshots/learn_exercises.png" width="220"><br>배우고 싶은 운동 목록</td>
@@ -183,7 +184,8 @@ Firebase Cloud Functions를 통해 Anthropic Claude API를 호출하는 AI 식�
   <tr>
     <td align="center"><img src="screenshots/exercise_detail.png" width="220"><br>운동 상세 화면 (스쿼트)</td>
   </tr>
-<img width="400" height="911" alt="스마트벌크2" src="https://github.com/user-attachments/assets/f0f04ff6-d0fc-46e0-9c3f-ba497f6bd24a" />
+  
+
 
 </table>
 
