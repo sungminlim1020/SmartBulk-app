@@ -51,12 +51,6 @@ SmartBulk는 사용자의 신체 정보(나이, 키, 몸무게)와 운동 목표
       <b>날짜별 계획 미리보기</b>
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <img src="screenshots/mypage.png" width="220" alt="마이페이지"><br>
-      <b>마이페이지</b>
-    </td>
-  </tr>
 </table>
 
 ## 주요 기능
