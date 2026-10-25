@@ -169,7 +169,7 @@ Firebase Cloud Functions를 통해 Anthropic Claude API를 호출하는 AI 식�
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/login.png" width="220"><br>로그인 화면</td>
+     <img width="410" height="915" alt="스마트벌크1" src="https://github.com/user-attachments/assets/40095d4f-614d-4154-a621-379c11a5aba1" />로그인 화면</td>
     <td align="center"><img src="screenshots/signup.png" width="220"><br>회원가입 화면</td>
   </tr>
   <tr>
@@ -183,6 +183,7 @@ Firebase Cloud Functions를 통해 Anthropic Claude API를 호출하는 AI 식�
   <tr>
     <td align="center"><img src="screenshots/exercise_detail.png" width="220"><br>운동 상세 화면 (스쿼트)</td>
   </tr>
+
 </table>
 
 ## 개발 기간
